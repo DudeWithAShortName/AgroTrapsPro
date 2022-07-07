@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3gjH5OUhKNJjJy73FCoFNTALF6zotgOyWQfpg6Llp7liHIP34ZFafPejx8+BuBaTK4fHNc1LD2IZwMI/7LAL7w==",
+  "dgSpecHash": "T54k0GX347X76oR2kAeK1NAHwWhYIBBL14vn68wwSykkeQ+IQzB+6SLFPBtKT6zhKv5Rdf3BWWhtE4Wri2c5vw==",
   "success": true,
-  "projectFilePath": "C:\\MyPrograms\\Phosphorland\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj",
+  "projectFilePath": "C:\\MyPrograms\\Phosphorland\\hfgh\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stivi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Stivi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",

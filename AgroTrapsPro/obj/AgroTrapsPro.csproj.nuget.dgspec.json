@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyPrograms\\Phosphorland\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj": {}
+    "C:\\MyPrograms\\Phosphorland\\hfgh\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj": {}
   },
   "projects": {
-    "C:\\MyPrograms\\Phosphorland\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj": {
+    "C:\\MyPrograms\\Phosphorland\\hfgh\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyPrograms\\Phosphorland\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj",
+        "projectUniqueName": "C:\\MyPrograms\\Phosphorland\\hfgh\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj",
         "projectName": "AgroTrapsPro",
-        "projectPath": "C:\\MyPrograms\\Phosphorland\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj",
+        "projectPath": "C:\\MyPrograms\\Phosphorland\\hfgh\\AgroTrapsPro\\AgroTrapsPro\\AgroTrapsPro.csproj",
         "packagesPath": "C:\\Users\\Stivi\\.nuget\\packages\\",
-        "outputPath": "C:\\MyPrograms\\Phosphorland\\AgroTrapsPro\\AgroTrapsPro\\obj\\",
+        "outputPath": "C:\\MyPrograms\\Phosphorland\\hfgh\\AgroTrapsPro\\AgroTrapsPro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
